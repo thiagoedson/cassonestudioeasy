@@ -1,0 +1,9 @@
+{
+    "name": "cassonestudioeasy/plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "files": ["plugin_wp_cassonestudio.php"]
+    }
+}

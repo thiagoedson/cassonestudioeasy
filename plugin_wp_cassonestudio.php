@@ -89,7 +89,7 @@ function orcamento_whatsapp() {
                 <input type="text" name="produto" id="produto">
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-success">
+                <button type="submit" name="enviar_orcamento" class="btn btn-success">
                     Pedir orçamento
                 </button>
             </div>

@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 // Plugin version.
 if ( ! defined( 'OPB_VERSION' ) ) {
-    define( 'OPB_VERSION', '1.4.1' );
+    define( 'OPB_VERSION', '1.0.0' );
 }
 
 if ( ! defined( 'OPB_NAME' ) ) {
